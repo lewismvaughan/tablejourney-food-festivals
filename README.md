@@ -34,7 +34,7 @@ Snapshot: 2026-10-03.
 ## Scope
 
 These are the festivals in TableJourney's guides, which follow the cities it covers
-(35% are in United States), not every food festival in the world. Closed festivals and season-long
+(35% are in the United States), not every food festival in the world. Closed festivals and season-long
 events running longer than about two months are left out.
 
 ## Licence and credit
