@@ -42,20 +42,6 @@
   "page_url": "https://tablejourney.com/portugal/braga/festivals/verde-cool-braga/"
  },
  {
-  "name": "Bienal de Flamenco de Sevilla",
-  "city": "Seville",
-  "country": "Spain",
-  "start_date": "2026-09-09",
-  "end_date": "2026-10-03",
-  "month": "September",
-  "dates_confirmed": false,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Sherry, tapeo, flamenco-bar food crawls across the centro",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/spain/seville/festivals/bienal-de-flamenco/"
- },
- {
   "name": "Sapporo Autumn Fest",
   "city": "Sapporo",
   "country": "Japan",
@@ -238,20 +224,6 @@
   "page_url": "https://tablejourney.com/united-states/las-vegas/festivals/san-gennaro-feast-fall/"
  },
  {
-  "name": "Greek Festival",
-  "city": "Birmingham",
-  "country": "United States",
-  "start_date": "2026-10-01",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Greek",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/birmingham-al/festivals/greek-festival-birmingham/"
- },
- {
   "name": "Good Food Events (formerly Good Food Month)",
   "city": "Sydney",
   "country": "Australia",
@@ -364,20 +336,6 @@
   "page_url": "https://tablejourney.com/italy/rome/festivals/festa-della-cortesia/"
  },
  {
-  "name": "Asian Night Market Festival",
-  "city": "Oklahoma City",
-  "country": "United States",
-  "start_date": "2026-10-02",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Street food festivals",
-  "focus": "",
-  "free_entry": "",
-  "page_url": "https://tablejourney.com/united-states/oklahoma-city/festivals/asian-night-market-festival/"
- },
- {
   "name": "Albuquerque Greek Festival",
   "city": "Albuquerque",
   "country": "United States",
@@ -404,20 +362,6 @@
   "focus": "",
   "free_entry": "",
   "page_url": "https://tablejourney.com/united-states/oklahoma-city/festivals/oklahoma-city-greek-festival/"
- },
- {
-  "name": "PINT Bockbierfestival",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "start_date": "2026-10-02",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Beer festivals",
-  "focus": "Dutch craft bock beer, 40-plus brewers",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/netherlands/amsterdam/festivals/pint-bockbierfestival/"
  },
  {
   "name": "St James Court Art Show",
@@ -490,20 +434,6 @@
   "page_url": "https://tablejourney.com/united-states/houston/festivals/original-greek-festival/"
  },
  {
-  "name": "Portland Night Market",
-  "city": "Portland",
-  "country": "United States",
-  "start_date": "2026-10-02",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Street food festivals",
-  "focus": "Food carts, food and drink vendors and makers' stalls",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/portland/festivals/portland-night-market/"
- },
- {
   "name": "Feria Sabores de Nuestra Tierra",
   "city": "Granada",
   "country": "Spain",
@@ -546,34 +476,6 @@
   "page_url": "https://tablejourney.com/moldova/chisinau/festivals/ziua-nationala-vinului/"
  },
  {
-  "name": "Downtown Des Moines Farmers' Market",
-  "city": "Des Moines",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "",
-  "free_entry": "",
-  "page_url": "https://tablejourney.com/united-states/des-moines/festivals/downtown-farmers-market-season/"
- },
- {
-  "name": "Southern Smoke Festival",
-  "city": "Houston",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Chef-driven tasting fundraiser",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/houston/festivals/southern-smoke-festival/"
- },
- {
   "name": "Feria Nacional del Mole",
   "city": "Mexico City",
   "country": "Mexico",
@@ -586,20 +488,6 @@
   "focus": "Mole (black, red, green, fruity, almond, pine nut)",
   "free_entry": true,
   "page_url": "https://tablejourney.com/mexico/mexico-city/festivals/feria-nacional-del-mole/"
- },
- {
-  "name": "Forsyth Farmers' Market (Weekly)",
-  "city": "Savannah",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": false,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Local growers, Sea Island peas, coastal Georgia produce",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/savannah/festivals/forsyth-farmers-market-festival/"
  },
  {
   "name": "Oaktoberfest in the Dimond",
@@ -616,104 +504,6 @@
   "page_url": "https://tablejourney.com/united-states/oakland/festivals/oaktoberfest-dimond/"
  },
  {
-  "name": "Maryland Renaissance Festival",
-  "city": "Baltimore",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Beer festivals",
-  "focus": "Turkey legs, meat pies, local craft beer across five taverns",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/baltimore/festivals/maryland-renaissance-festival/"
- },
- {
-  "name": "Minnesota Renaissance Festival",
-  "city": "Minneapolis",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs, scotch eggs, soup in bread bowls, apple dumplings, mead",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/minneapolis/festivals/minnesota-renaissance-festival/"
- },
- {
-  "name": "Queens Night Market",
-  "city": "New York City",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": false,
-  "recurs": "yearly",
-  "kinds": "Street food festivals",
-  "focus": "Global street food",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/queens-night-market-season/"
- },
- {
-  "name": "Carolina Renaissance Festival",
-  "city": "Charlotte",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs, steak on a stake, bread bowls, mead",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/charlotte/festivals/carolina-renaissance-festival/"
- },
- {
-  "name": "King Richard's Faire",
-  "city": "Boston",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Spit-roasted turkey legs, pub and tavern ale",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/boston/festivals/king-richards-faire/"
- },
- {
-  "name": "Mississippi Farmers Market Summer Season",
-  "city": "Jackson",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Harvest festivals",
-  "focus": "Mississippi-grown produce and artisan food",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/jackson/festivals/mississippi-farmers-market-seasonal/"
- },
- {
-  "name": "Ohio Renaissance Festival",
-  "city": "Cincinnati",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs, steak on a stake, soup in a bread bowl, mead",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/cincinnati/festivals/ohio-renaissance-festival/"
- },
- {
   "name": "Plovdiv City Wine Festival",
   "city": "Plovdiv",
   "country": "Bulgaria",
@@ -728,62 +518,6 @@
   "page_url": "https://tablejourney.com/bulgaria/plovdiv/festivals/wine-fest-plovdiv-october/"
  },
  {
-  "name": "Smorgasburg",
-  "city": "New York City",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": false,
-  "recurs": "yearly",
-  "kinds": "Street food festivals",
-  "focus": "Pop-up street food",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/smorgasburg-season/"
- },
- {
-  "name": "Ybor City Saturday Market",
-  "city": "Tampa",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Local produce, baked goods and gourmet foods",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/tampa/festivals/ybor-saturday-market-festival/"
- },
- {
-  "name": "Kansas City Renaissance Festival",
-  "city": "Kansas City",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Giant turkey legs, apple dumplings, soup in a bread bowl, Scotch eggs, mead and local stouts",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/kansas-city/festivals/kansas-city-renaissance-festival/"
- },
- {
-  "name": "Michigan Renaissance Festival",
-  "city": "Detroit",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs, bacon on a stick, deep fried pickle spears, walking tacos, ale",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/detroit/festivals/michigan-renaissance-festival/"
- },
- {
   "name": "Cerveja em Lisboa, Oktoberfest a Portuguesa",
   "city": "Lisbon",
   "country": "Portugal",
@@ -796,62 +530,6 @@
   "focus": "Portuguese craft beer, street food",
   "free_entry": false,
   "page_url": "https://tablejourney.com/portugal/lisbon/festivals/cerveja-em-lisboa/"
- },
- {
-  "name": "Highball Halloween",
-  "city": "Columbus",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-03",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Street food festivals; Halloween and Day of the Dead",
-  "focus": "Food trucks and vendors at the Hops on High open-streets event",
-  "free_entry": true,
-  "page_url": "https://tablejourney.com/united-states/columbus/festivals/highball-halloween-short-north/"
- },
- {
-  "name": "New York Renaissance Faire",
-  "city": "New York City",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs, B. Nektar mead, bread-bowl soups",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/new-york-renaissance-faire/"
- },
- {
-  "name": "Pittsburgh Renaissance Festival",
-  "city": "Pittsburgh",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Roast turkey legs, steak on a stake, fresh baked goods",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/pittsburgh/festivals/pittsburgh-renaissance-festival/"
- },
- {
-  "name": "St. Louis Renaissance Festival",
-  "city": "St. Louis",
-  "country": "United States",
-  "start_date": "2026-10-03",
-  "end_date": "2026-10-04",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "",
-  "focus": "Turkey legs and festival food stalls",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/united-states/st-louis/festivals/st-louis-renaissance-festival/"
  },
  {
   "name": "Oktoberfest at Plant Riverside District",
@@ -1526,6 +1204,20 @@
   "page_url": "https://tablejourney.com/thailand/phuket/festivals/phuket-vegetarian-festival/"
  },
  {
+  "name": "Downtown Des Moines Farmers' Market",
+  "city": "Des Moines",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/united-states/des-moines/festivals/downtown-farmers-market-season/"
+ },
+ {
   "name": "Nine Emperor Gods Festival",
   "city": "Penang",
   "country": "Malaysia",
@@ -1582,6 +1274,20 @@
   "page_url": "https://tablejourney.com/thailand/bangkok/festivals/yaowarat-vegetarian-festival/"
  },
  {
+  "name": "Forsyth Farmers' Market (Weekly)",
+  "city": "Savannah",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Local growers, Sea Island peas, coastal Georgia produce",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/savannah/festivals/forsyth-farmers-market-festival/"
+ },
+ {
   "name": "Texas Renaissance Festival",
   "city": "Houston",
   "country": "United States",
@@ -1594,6 +1300,34 @@
   "focus": "Turkey legs, steak on a stick, barbecue, Polish and Greek stalls",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/houston/festivals/texas-renaissance-festival/"
+ },
+ {
+  "name": "Maryland Renaissance Festival",
+  "city": "Baltimore",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Beer festivals",
+  "focus": "Turkey legs, meat pies, local craft beer across five taverns",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/baltimore/festivals/maryland-renaissance-festival/"
+ },
+ {
+  "name": "Queens Night Market",
+  "city": "New York City",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Street food festivals",
+  "focus": "Global street food",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/queens-night-market-season/"
  },
  {
   "name": "Wine Vision by Open Balkan",
@@ -1610,6 +1344,76 @@
   "page_url": "https://tablejourney.com/serbia/belgrade/festivals/wine-vision-open-balkan/"
  },
  {
+  "name": "Carolina Renaissance Festival",
+  "city": "Charlotte",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs, steak on a stake, bread bowls, mead",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/charlotte/festivals/carolina-renaissance-festival/"
+ },
+ {
+  "name": "King Richard's Faire",
+  "city": "Boston",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Spit-roasted turkey legs, pub and tavern ale",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/boston/festivals/king-richards-faire/"
+ },
+ {
+  "name": "Mississippi Farmers Market Summer Season",
+  "city": "Jackson",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Harvest festivals",
+  "focus": "Mississippi-grown produce and artisan food",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/jackson/festivals/mississippi-farmers-market-seasonal/"
+ },
+ {
+  "name": "Ohio Renaissance Festival",
+  "city": "Cincinnati",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs, steak on a stake, soup in a bread bowl, mead",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/cincinnati/festivals/ohio-renaissance-festival/"
+ },
+ {
+  "name": "Smorgasburg",
+  "city": "New York City",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Street food festivals",
+  "focus": "Pop-up street food",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/smorgasburg-season/"
+ },
+ {
   "name": "Wine Over Water",
   "city": "Chattanooga",
   "country": "United States",
@@ -1622,6 +1426,34 @@
   "focus": "Wine",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/chattanooga/festivals/wine-over-water/"
+ },
+ {
+  "name": "Ybor City Saturday Market",
+  "city": "Tampa",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Local produce, baked goods and gourmet foods",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/tampa/festivals/ybor-saturday-market-festival/"
+ },
+ {
+  "name": "Kansas City Renaissance Festival",
+  "city": "Kansas City",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Giant turkey legs, apple dumplings, soup in a bread bowl, Scotch eggs, mead and local stouts",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/kansas-city/festivals/kansas-city-renaissance-festival/"
  },
  {
   "name": "Barbacoa & Big Red Festival",
@@ -1664,6 +1496,20 @@
   "focus": "Monterey County wines, craft beer and light bites in village galleries",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/carmel/festivals/meet-the-makers-art-and-wine-walk/"
+ },
+ {
+  "name": "St. Louis Renaissance Festival",
+  "city": "St. Louis",
+  "country": "United States",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-11",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs and festival food stalls",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/st-louis/festivals/st-louis-renaissance-festival/"
  },
  {
   "name": "FoCo Fall Fest",
@@ -2126,20 +1972,6 @@
   "focus": "Wine",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/santa-barbara/festivals/santa-barbara-vintners-festival/"
- },
- {
-  "name": "Essencia do Vinho Lisboa",
-  "city": "Lisbon",
-  "country": "Portugal",
-  "start_date": "2026-10-17",
-  "end_date": "2026-10-19",
-  "month": "October",
-  "dates_confirmed": true,
-  "recurs": "yearly",
-  "kinds": "Wine festivals",
-  "focus": "Premium Portuguese wines, masterclasses",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/portugal/lisbon/festivals/essencia-do-vinho-lisboa/"
  },
  {
   "name": "Mundo Mezcal CDMX",
@@ -2644,6 +2476,20 @@
   "focus": "Coffee, tea and pastry",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/cincinnati/festivals/cincinnati-coffee-festival/"
+ },
+ {
+  "name": "Maine Veg Fest",
+  "city": "Portland",
+  "country": "United States",
+  "start_date": "2026-10-24",
+  "end_date": "2026-10-24",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Street food festivals; Cheese festivals; Vegan and vegetarian festivals",
+  "focus": "Plant-based food, vegan cheese and charcuterie, tempeh, food trucks",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/portland-maine/festivals/portland-veg-fest/"
  },
  {
   "name": "Taipei Hakka Village Market (Yimin Festival)",
@@ -3570,6 +3416,20 @@
   "page_url": "https://tablejourney.com/united-states/austin/festivals/austin-food-and-wine-festival/"
  },
  {
+  "name": "Essencia do Vinho Lisboa",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "start_date": "2026-11-07",
+  "end_date": "2026-11-09",
+  "month": "November",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Wine festivals",
+  "focus": "Premium Portuguese wines, masterclasses",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/portugal/lisbon/festivals/essencia-do-vinho-lisboa/"
+ },
+ {
   "name": "Galway Christmas Market",
   "city": "Galway",
   "country": "Ireland",
@@ -3668,6 +3528,20 @@
   "page_url": "https://tablejourney.com/united-states/new-orleans/festivals/louisiana-renaissance-festival/"
  },
  {
+  "name": "Sanur Village Festival",
+  "city": "Bali",
+  "country": "Indonesia",
+  "start_date": "2026-11-07",
+  "end_date": "2026-11-09",
+  "month": "November",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Street food festivals; Seafood festivals",
+  "focus": "Sanur seafood lawar and street food",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/indonesia/bali/festivals/sanur-village-festival/"
+ },
+ {
   "name": "San Francisco Coffee Festival",
   "city": "Oakland",
   "country": "United States",
@@ -3736,6 +3610,20 @@
   "focus": "Indian sweets and snacks",
   "free_entry": true,
   "page_url": "https://tablejourney.com/malaysia/penang/festivals/deepavali-little-india/"
+ },
+ {
+  "name": "Denver Bloody Mary Festival",
+  "city": "Denver",
+  "country": "United States",
+  "start_date": "2026-11-08",
+  "end_date": "2026-11-08",
+  "month": "November",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Bloody Marys from Denver bars and restaurants, plus food tastes",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/denver/festivals/denver-bloody-mary-festival/"
  },
  {
   "name": "Shalom Y'all Jewish Food Festival",
@@ -5264,6 +5152,20 @@
   "page_url": "https://tablejourney.com/belgium/ghent/festivals/ghent-winter-market-food/"
  },
  {
+  "name": "Good Food and Wine Show Christmas Edition Melbourne",
+  "city": "Melbourne",
+  "country": "Australia",
+  "start_date": "2026-12-04",
+  "end_date": "2026-12-06",
+  "month": "December",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Wine festivals",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/australia/melbourne/festivals/good-food-wine-show-melbourne-christmas/"
+ },
+ {
   "name": "Festival des Gourmandises",
   "city": "Bruges",
   "country": "Belgium",
@@ -5670,6 +5572,20 @@
   "page_url": "https://tablejourney.com/netherlands/rotterdam/festivals/rotterdamse-kerstmarkt-oude-haven/"
  },
  {
+  "name": "Denpasar Festival (Denfest)",
+  "city": "Bali",
+  "country": "Indonesia",
+  "start_date": "2026-12-20",
+  "end_date": "2026-12-23",
+  "month": "December",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Street food festivals; Coffee and tea festivals",
+  "focus": "Heritage street food and coffee",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/indonesia/bali/festivals/denpasar-festival/"
+ },
+ {
   "name": "Feria de Santo Tomas",
   "city": "Bilbao",
   "country": "Spain",
@@ -5878,6 +5794,20 @@
   "focus": "Basque txotx season opening, cider houses Astigarraga",
   "free_entry": false,
   "page_url": "https://tablejourney.com/spain/san-sebastian/festivals/sagardo-berriaren-eguna/"
+ },
+ {
+  "name": "Kite Festival (Makar Sankranti)",
+  "city": "Jaipur",
+  "country": "India",
+  "start_date": "2027-01-14",
+  "end_date": "2027-01-14",
+  "month": "January",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Til ke ladoo, gajak, feeni and dal ke pakode, the Sankranti foods eaten on Jaipur's rooftops",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/india/jaipur/festivals/jaipur-kite-festival/"
  },
  {
   "name": "EPCOT International Festival of the Arts",
@@ -7224,6 +7154,20 @@
   "page_url": "https://tablejourney.com/portugal/lisbon/festivals/lisbon-food-affair/"
  },
  {
+  "name": "Pasar Ramadhan Kampung Jawa",
+  "city": "Bali",
+  "country": "Indonesia",
+  "start_date": "2027-02-09",
+  "end_date": "2027-03-06",
+  "month": "February",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Ramadan takjil snacks and iftar dishes",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/indonesia/bali/festivals/pasar-ramadhan-kampung-jawa/"
+ },
+ {
   "name": "Taipei Lantern Festival",
   "city": "Taipei",
   "country": "Taiwan",
@@ -7474,6 +7418,20 @@
   "focus": "Food trucks, traditional Ramadan drinks, suhoor dishes, a Ramadan souq",
   "free_entry": true,
   "page_url": "https://tablejourney.com/united-arab-emirates/abu-dhabi/festivals/ramadan-festival-abu-dhabi-corniche/"
+ },
+ {
+  "name": "Essencia do Vinho",
+  "city": "Porto",
+  "country": "Portugal",
+  "start_date": "2027-02-18",
+  "end_date": "2027-02-21",
+  "month": "February",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Wine festivals",
+  "focus": "Portuguese wine",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/portugal/porto/festivals/essencia-do-vinho-porto/"
  },
  {
   "name": "VINARIA International Wine Fair",
@@ -7768,20 +7726,6 @@
   "focus": "Gourmet and fine dining, 100+ top chefs at unusual Berlin venues",
   "free_entry": false,
   "page_url": "https://tablejourney.com/germany/berlin/festivals/eat-berlin-festival/"
- },
- {
-  "name": "Essencia do Vinho",
-  "city": "Porto",
-  "country": "Portugal",
-  "start_date": "2027-02-26",
-  "end_date": "2027-03-01",
-  "month": "February",
-  "dates_confirmed": false,
-  "recurs": "yearly",
-  "kinds": "Wine festivals",
-  "focus": "Portuguese wine",
-  "free_entry": false,
-  "page_url": "https://tablejourney.com/portugal/porto/festivals/essencia-do-vinho-porto/"
  },
  {
   "name": "Starkbierfest am Nockherberg",
@@ -9100,6 +9044,20 @@
   "page_url": "https://tablejourney.com/finland/helsinki/festivals/ruokamessut-helsinki/"
  },
  {
+  "name": "Deep Ellum Community Arts Fair",
+  "city": "Dallas",
+  "country": "United States",
+  "start_date": "2027-04-03",
+  "end_date": "2027-04-05",
+  "month": "April",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/united-states/dallas/festivals/deep-ellum-arts-festival/"
+ },
+ {
   "name": "Renaissance Pleasure Faire",
   "city": "Los Angeles",
   "country": "United States",
@@ -9196,6 +9154,20 @@
   "focus": "Bread and baked goods",
   "free_entry": false,
   "page_url": "https://tablejourney.com/china/beijing/festivals/kidumart-breadfest/"
+ },
+ {
+  "name": "Gangaur Festival",
+  "city": "Jaipur",
+  "country": "India",
+  "start_date": "2027-04-09",
+  "end_date": "2027-04-10",
+  "month": "April",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Ghewar topped with rabri, such as Sambhar Fini Wala's, which a Condé Nast Traveller India contributor serves guests during the Gangaur processions",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/india/jaipur/festivals/jaipur-gangaur-festival/"
  },
  {
   "name": "Nashville Predators Wine Festival and Tasting",
@@ -12306,6 +12278,20 @@
   "page_url": "https://tablejourney.com/united-states/richmond/festivals/richmond-greek-festival/"
  },
  {
+  "name": "Ubud Food Festival",
+  "city": "Bali",
+  "country": "Indonesia",
+  "start_date": "2027-05-28",
+  "end_date": "2027-05-31",
+  "month": "May",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Indonesian",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/indonesia/bali/festivals/ubud-food-festival/"
+ },
+ {
   "name": "Bizkaiko Pintxo Txapelketa",
   "city": "Bilbao",
   "country": "Spain",
@@ -13132,6 +13118,20 @@
   "page_url": "https://tablejourney.com/portugal/porto/festivals/festas-da-cidade-do-porto/"
  },
  {
+  "name": "Alguer Wine Week",
+  "city": "Alghero",
+  "country": "Italy",
+  "start_date": "2027-06-08",
+  "end_date": "2027-06-14",
+  "month": "June",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Wine festivals",
+  "focus": "Sardinian wine, Alghero DOC",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/italy/alghero/festivals/alguer-wine-week/"
+ },
+ {
   "name": "New Orleans Wine and Food Experience",
   "city": "New Orleans",
   "country": "United States",
@@ -13916,7 +13916,7 @@
   "page_url": "https://tablejourney.com/united-states/fort-collins/festivals/fort-collins-beer-week/"
  },
  {
-  "name": "Sao Joao do Porto",
+  "name": "São João do Porto",
   "city": "Porto",
   "country": "Portugal",
   "start_date": "2027-06-23",
@@ -14138,6 +14138,20 @@
   "focus": "Asian street food, ramen, Korean barbecue, bubble tea",
   "free_entry": true,
   "page_url": "https://tablejourney.com/netherlands/rotterdam/festivals/asian-food-festival-rotterdam/"
+ },
+ {
+  "name": "Bricktown Blues & BBQ Festival",
+  "city": "Oklahoma City",
+  "country": "United States",
+  "start_date": "2027-06-26",
+  "end_date": "2027-06-27",
+  "month": "June",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Barbecue festivals",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/united-states/oklahoma-city/festivals/bricktown-blues-brews-bbq-festival/"
  },
  {
   "name": "FIA Lisboa, Feira Internacional de Artesanato",
@@ -16212,6 +16226,20 @@
   "page_url": "https://tablejourney.com/united-states/milwaukee/festivals/wisconsin-state-fair/"
  },
  {
+  "name": "Jaipur Teej Festival",
+  "city": "Jaipur",
+  "country": "India",
+  "start_date": "2027-08-05",
+  "end_date": "2027-08-06",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Ghewar, the sweet closely associated with Teej, from walled-city sweet shops such as Sambhar Fini Wala in Johari Bazaar",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/india/jaipur/festivals/jaipur-teej-festival/"
+ },
+ {
   "name": "Old Spanish Days Fiesta - El Mercado De La Guerra",
   "city": "Santa Barbara",
   "country": "United States",
@@ -16912,6 +16940,20 @@
   "page_url": "https://tablejourney.com/united-states/fort-collins/festivals/fort-collins-peach-festival/"
  },
  {
+  "name": "Zeebrugge Visserijfeesten (Seafront Midsummer)",
+  "city": "Bruges",
+  "country": "Belgium",
+  "start_date": "2027-08-15",
+  "end_date": "2027-08-15",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Seafood festivals",
+  "focus": "North Sea fish and seafood",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/belgium/bruges/festivals/zeebrugge-visserijfeesten/"
+ },
+ {
   "name": "Mill City Farmers Market Tomato Tasting",
   "city": "Minneapolis",
   "country": "United States",
@@ -17106,6 +17148,20 @@
   "focus": "Mexican",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/milwaukee/festivals/mexican-fiesta/"
+ },
+ {
+  "name": "New York Renaissance Faire",
+  "city": "New York City",
+  "country": "United States",
+  "start_date": "2027-08-21",
+  "end_date": "2027-08-22",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs, B. Nektar mead, bread-bowl soups",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/new-york-city/festivals/new-york-renaissance-faire/"
  },
  {
   "name": "Beijing Cuisine Culture Festival",
@@ -17444,6 +17500,20 @@
   "page_url": "https://tablejourney.com/china/shanghai/festivals/china-restaurant-week-shanghai/"
  },
  {
+  "name": "Minnesota Renaissance Festival",
+  "city": "Minneapolis",
+  "country": "United States",
+  "start_date": "2027-08-28",
+  "end_date": "2027-08-29",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs, scotch eggs, soup in bread bowls, apple dumplings, mead",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/minneapolis/festivals/minnesota-renaissance-festival/"
+ },
+ {
   "name": "Berlin Beer Week",
   "city": "Berlin",
   "country": "Germany",
@@ -17514,6 +17584,20 @@
   "page_url": "https://tablejourney.com/france/avignon/festivals/ban-des-vendanges-des-cotes-du-rhone/"
  },
  {
+  "name": "Michigan Renaissance Festival",
+  "city": "Detroit",
+  "country": "United States",
+  "start_date": "2027-08-28",
+  "end_date": "2027-08-29",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Turkey legs, bacon on a stick, deep fried pickle spears, walking tacos, ale",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/detroit/festivals/michigan-renaissance-festival/"
+ },
+ {
   "name": "Taste of Greektown",
   "city": "Chicago",
   "country": "United States",
@@ -17540,6 +17624,20 @@
   "focus": "Andouillette d'Arras",
   "free_entry": true,
   "page_url": "https://tablejourney.com/france/lille/festivals/fete-de-l-andouillette-arras/"
+ },
+ {
+  "name": "Pittsburgh Renaissance Festival",
+  "city": "Pittsburgh",
+  "country": "United States",
+  "start_date": "2027-08-28",
+  "end_date": "2027-08-29",
+  "month": "August",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Roast turkey legs, steak on a stake, fresh baked goods",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/pittsburgh/festivals/pittsburgh-renaissance-festival/"
  },
  {
   "name": "National Buffalo Wing Festival",
@@ -17666,6 +17764,20 @@
   "focus": "",
   "free_entry": "",
   "page_url": "https://tablejourney.com/ireland/cork/festivals/feast-cork/"
+ },
+ {
+  "name": "La Festa Italiana",
+  "city": "Omaha",
+  "country": "United States",
+  "start_date": "2027-09-01",
+  "end_date": "2027-09-30",
+  "month": "September",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/united-states/omaha/festivals/la-festa-italiana-omaha/"
  },
  {
   "name": "Festa di Piedigrotta",
@@ -18310,6 +18422,20 @@
   "focus": "Hungarian wine, all regions",
   "free_entry": false,
   "page_url": "https://tablejourney.com/hungary/budapest/festivals/budapest-wine-festival/"
+ },
+ {
+  "name": "Bienal de Flamenco de Sevilla",
+  "city": "Seville",
+  "country": "Spain",
+  "start_date": "2027-09-09",
+  "end_date": "2027-10-03",
+  "month": "September",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Sherry, tapeo, flamenco-bar food crawls across the centro",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/spain/seville/festivals/bienal-de-flamenco/"
  },
  {
   "name": "Riga Food",
@@ -20104,6 +20230,34 @@
   "page_url": "https://tablejourney.com/united-states/cincinnati/festivals/findlay-market-fall-food-fest/"
  },
  {
+  "name": "Greek Festival",
+  "city": "Birmingham",
+  "country": "United States",
+  "start_date": "2027-10-01",
+  "end_date": "2027-10-03",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Greek",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/birmingham-al/festivals/greek-festival-birmingham/"
+ },
+ {
+  "name": "Asian Night Market Festival",
+  "city": "Oklahoma City",
+  "country": "United States",
+  "start_date": "2027-10-01",
+  "end_date": "2027-10-02",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Street food festivals",
+  "focus": "",
+  "free_entry": "",
+  "page_url": "https://tablejourney.com/united-states/oklahoma-city/festivals/asian-night-market-festival/"
+ },
+ {
   "name": "Markthal Anniversary Open Market",
   "city": "Rotterdam",
   "country": "Netherlands",
@@ -20118,6 +20272,20 @@
   "page_url": "https://tablejourney.com/netherlands/rotterdam/festivals/markthal-anniversary-market/"
  },
  {
+  "name": "PINT Bockbierfestival",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "start_date": "2027-10-01",
+  "end_date": "2027-10-02",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Beer festivals",
+  "focus": "Dutch craft bock beer, 40-plus brewers",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/netherlands/amsterdam/festivals/pint-bockbierfestival/"
+ },
+ {
   "name": "Taste of Carmel",
   "city": "Carmel-by-the-Sea",
   "country": "United States",
@@ -20130,5 +20298,61 @@
   "focus": "60+ local restaurants, wineries and craft beverage makers",
   "free_entry": false,
   "page_url": "https://tablejourney.com/united-states/carmel/festivals/taste-of-carmel/"
+ },
+ {
+  "name": "Asheville Oktoberfest",
+  "city": "Asheville",
+  "country": "United States",
+  "start_date": "2027-10-02",
+  "end_date": "2027-10-02",
+  "month": "October",
+  "dates_confirmed": false,
+  "recurs": "yearly",
+  "kinds": "Beer festivals; Street food festivals",
+  "focus": "German-inspired food trucks, local fall beers, ciders and spirits",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/asheville/festivals/asheville-oktoberfest/"
+ },
+ {
+  "name": "Portland Night Market",
+  "city": "Portland",
+  "country": "United States",
+  "start_date": "2027-10-02",
+  "end_date": "2027-10-03",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Street food festivals",
+  "focus": "Food carts, food and drink vendors and makers' stalls",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/portland/festivals/portland-night-market/"
+ },
+ {
+  "name": "Southern Smoke Festival",
+  "city": "Houston",
+  "country": "United States",
+  "start_date": "2027-10-03",
+  "end_date": "2027-10-03",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "",
+  "focus": "Chef-driven tasting fundraiser",
+  "free_entry": false,
+  "page_url": "https://tablejourney.com/united-states/houston/festivals/southern-smoke-festival/"
+ },
+ {
+  "name": "Highball Halloween",
+  "city": "Columbus",
+  "country": "United States",
+  "start_date": "2027-10-03",
+  "end_date": "2027-10-03",
+  "month": "October",
+  "dates_confirmed": true,
+  "recurs": "yearly",
+  "kinds": "Street food festivals; Halloween and Day of the Dead",
+  "focus": "Food trucks and vendors at the Hops on High open-streets event",
+  "free_entry": true,
+  "page_url": "https://tablejourney.com/united-states/columbus/festivals/highball-halloween-short-north/"
  }
 ]
