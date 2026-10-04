@@ -7,7 +7,7 @@ size_categories: [1K<n<10K]
 
 # TableJourney food festival calendar
 
-1,454 food festivals in 55 countries and 221 cities, each with the dates of its
+1,350 food festivals in 55 countries and 221 cities, each with the dates of its
 next edition, from the guides at [TableJourney](https://tablejourney.com). Rebuilt from the same data as the site's
 [festival calendar](https://tablejourney.com/festivals/) and [statistics](https://tablejourney.com/festivals/statistics/).
 Snapshot: 2026-10-04. Permanent record: [doi.org/10.5281/zenodo.23142697](https://doi.org/10.5281/zenodo.23142697) (Zenodo).
@@ -33,8 +33,9 @@ Snapshot: 2026-10-04. Permanent record: [doi.org/10.5281/zenodo.23142697](https:
 
 ## Scope
 
-These are the festivals in TableJourney's guides, which follow the cities it covers
-(35% are in the United States), not every food festival in the world. Closed festivals and season-long
+These are the food-led festivals in TableJourney's guides (cultural events such as film, jazz and arts
+festivals or carnivals, where food is a side attraction, are left out), which follow the cities it covers
+(33% are in the United States), not every food festival in the world. Closed festivals and season-long
 events running longer than about two months are left out.
 
 ## Licence and credit
